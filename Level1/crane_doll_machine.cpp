@@ -1,3 +1,7 @@
+
+// 크레인 인형뽑기 게임
+// 스택
+
 #include <string>
 #include <vector>
 #include <stack>

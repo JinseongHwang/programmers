@@ -1,3 +1,7 @@
+
+// 주식가격
+// 브루트 포스
+
 #include <string>
 #include <vector>
 

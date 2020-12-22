@@ -1,3 +1,7 @@
+
+// 두 개 뽑아서 더하기
+// 정렬, 중복제거
+
 #include <cstdio>
 #include <string>
 #include <vector>
